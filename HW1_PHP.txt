@@ -1,0 +1,11 @@
+bool(true) (7.4)
+int(12345)
+bool(false)
+bool(true)
+
+bool(true) (8.2)
+int(12345)
+bool(false)
+bool(false)
+
+https://onlinephp.io/c/f8dec
